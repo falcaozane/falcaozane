@@ -24,9 +24,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=falcaozane&show_icons=true&locale=en&layout=compact" alt="falcaozane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=falcaozane&show_icons=true&locale=en" alt="falcaozane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=falcaozane&" alt="falcaozane" /></p>
 
