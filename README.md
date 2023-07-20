@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Zane Falcao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </hr>
 <h3 align="center">Innovate</h3>
-<h4 align="center"> Frontend Developer</h4>
+<h4 align="center"> Full Stack Developer</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=falcaozane&label=Zane's%20Profile%20Views%20&color=dc143c&style=plastic" alt="falcaozane" /> </p>
 <br>
