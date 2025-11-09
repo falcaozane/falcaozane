@@ -5,7 +5,7 @@
 <h4 align="center"> Full Stack Developer</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=falcaozane&label=Zane's%20Profile%20Views%20&color=dc143c&style=plastic" alt="falcaozane" /> </p>
-<br>
+<br/>
 
 
 # 💻 Tech Stack:
@@ -58,6 +58,19 @@
 # Learning from:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+---
+
+### 🏆 Highlights
+- 🥇 **Smart India Hackathon 2023 Winner** – AI-Based Legal Documentation Assistant (Ministry of Law & Justice)
+- 🥇 **TIAA Retire-AI-Thon Winner** – Financial AI Portfolio Planner  
+- 🥈 **Technovate 2.0 Winner**, **Unfold 2K24 Finalist**, **Strategem Runner-Up**
+- 💡 10+ AI/ML & Blockchain Projects deployed live  
+- 👨‍💻 Web Dev Lead @ **GDSC CRCE** | Organized Bit-N-Build Hackathon with 300+ participants  
+
+---
 
 <br/>
 
