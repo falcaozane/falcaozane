@@ -59,7 +59,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<br/>
+
 
 ---
 
@@ -72,7 +72,6 @@
 
 ---
 
-<br/>
 
 
 ### 🧠 Featured Projects
@@ -94,9 +93,17 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/falcaozane/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zane-falcao-014a41247/) <br />
+---
+
+### 🧩 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/zane-falcao-014a41247"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/falcaozane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/falcaozane"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
+
+---
 
 
 
