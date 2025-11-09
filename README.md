@@ -59,6 +59,27 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+<br/>
+
+---
+
+### 🧠 Featured Projects
+
+🔹 **[DocCrypt](https://doc-crypt-aptos.vercel.app/)**  
+AI-powered decentralized document management using **Aptos blockchain**, **Gemini AI**, and **on-chain AI agents**.  
+🎥 [Demo](https://drive.google.com/file/d/1KnNaGDdDy1yXmMJITeSJ6fLnQact86oo/view)
+
+🔹 **[Bhagavad Gita GPT](https://lucifer7210-httpshuggingface-cospaceszanefalcaos-dcb4256.hf.space/)**  
+RAG-powered multilingual AI chatbot trained on **Sanskrit, Hindi, and English scriptures**.
+
+🔹 **[AI Portfolio Allocation Engine](https://nse-stocks-portfolio-allocation.streamlit.app/)**  
+Intelligent portfolio optimization using **PyPortfolioOpt** and **Monte Carlo simulations**.
+
+🔹 **[FoodCheck.AI](https://devfolio.co/projects/foodcheckai)**  
+AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
+
+---
+
 
 
 ## 🌐 Socials:
