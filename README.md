@@ -91,10 +91,6 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 
 ---
 
-
-
----
-
 ### 🧩 Connect With Me
 
 <p align="center">
@@ -118,7 +114,6 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 ###
 ---
 <h3>FYI : My first hackathon project was a pac-man game made using java swing awt 😂</h3>
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/falcaozane/falcaozane/output/pacman-contribution-graph-dark.svg">
