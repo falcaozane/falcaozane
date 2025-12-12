@@ -127,9 +127,8 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 ---
 
 ### 🎶 **Now Playing**
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31i7p26p2u5jgrhog6257jsquc24)
-</div>
+&nbsp;
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7p26p2u5jgrhog6257jsquc24&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7p26p2u5jgrhog6257jsquc24&redirect=true)
 <h3>Check out What I'm Listening 🎼🎵🎸🎷🎧</h3>
 
 <div align="center">
