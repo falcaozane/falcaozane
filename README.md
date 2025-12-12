@@ -127,8 +127,11 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 ---
 
 ### 🎶 **Now Playing**
-&nbsp;
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7p26p2u5jgrhog6257jsquc24&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31i7p26p2u5jgrhog6257jsquc24&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7p26p2u5jgrhog6257jsquc24&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i7p26p2u5jgrhog6257jsquc24&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
 <h3>Check out What I'm Listening 🎼🎵🎸🎷🎧</h3>
 
 <div align="center">
