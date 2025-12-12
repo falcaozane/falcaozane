@@ -97,6 +97,8 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
   <a href="https://linkedin.com/in/zane-falcao-014a41247"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/falcaozane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://instagram.com/falcaozane"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://zane-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio%20(%20Under%20Construction%20)
+" /></a>
 </p>
 
 ---
