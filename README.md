@@ -110,7 +110,7 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 ![](https://github-readme-stats.vercel.app/api?username=falcaozane&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=falcaozane&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/>
+![](https://github-profile-trophy.vercel.app/?username=falcaozane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 ---
