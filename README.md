@@ -142,6 +142,10 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 
 ---
 
+### Some wins 😉
+![Wins](https://github.com/user-attachments/assets/74ed4481-6fa6-4d8e-b39e-b16490fbafbe)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
