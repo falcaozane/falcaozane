@@ -68,7 +68,10 @@
 - 🥇 **TIAA Retire-AI-Thon Winner** – Financial AI Portfolio Planner  
 - 🥈 **Technovate 2.0 Winner**, **Unfold 2K24 Finalist**, **Strategem Runner-Up**
 - 💡 10+ AI/ML & Blockchain Projects deployed live  
-- 👨‍💻 Web Dev Lead @ **GDSC CRCE** | Organized Bit-N-Build Hackathon with 300+ participants  
+- 👨‍💻 Web Dev Lead @ **GDSC CRCE** | Organized Bit-N-Build Hackathon with 300+ participants
+
+### Some wins 😉
+![Wins](https://github.com/user-attachments/assets/74ed4481-6fa6-4d8e-b39e-b16490fbafbe)
 
 ---
 
@@ -141,11 +144,6 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 </div>
 
 ---
-
-### Some wins 😉
-![Wins](https://github.com/user-attachments/assets/74ed4481-6fa6-4d8e-b39e-b16490fbafbe)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
