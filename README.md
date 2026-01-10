@@ -145,8 +145,17 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 
 ---
 
-![LeetCode Stats](https://leetcode.card.workers.dev/falcao_zane?theme=wtf&font=baloo&extension=activity)
-![LeetCode Stats](https://leetcode.card.workers.dev/falcaozane21?theme=default&font=source_code_pro&extension=null)
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://leetcode.card.workers.dev/falcao_zane?theme=wtf&font=baloo&extension=activity" width="400" />
+    </td>
+    <td>
+      <img src="https://leetcode.card.workers.dev/falcaozane21?theme=default&font=source_code_pro&extension=activity" width="400" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
