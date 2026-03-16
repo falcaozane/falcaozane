@@ -8,18 +8,19 @@
 <br/>
 
 ---
-
 # 💻 Tech Stack
 
-### Languages & Core
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,solidity,sql&perline=10)
+### Languages & Databases
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css,sql,mongodb,postgres&perline=11)
 
-### Web, Mobile & AI
-![Web & AI](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,flask,mongodb,postgres,firebase&perline=10)
+### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,flask,fastapi,streamlit,selenium&perline=10)
 
 ### Cloud, DevOps & Tools
-![Cloud & Tools](https://skillicons.dev/icons?i=azure,gcp,vercel,docker,linux,git,postman,vscode&perline=10)
+![Cloud & Tools](https://skillicons.dev/icons?i=azure,aws,gcp,vercel,netlify,render,docker,linux,git,github,firebase,postman,vscode,jira&perline=7)
 
+### Blockchain, AI & Data Science
+![Blockchain & AI](https://skillicons.dev/icons?i=solidity,hardhat,ethers,ipfs,tensorflow,pytorch,sklearn,pandas,numpy,opencv,spacy,openai&perline=12)
 ---
 
 ### 🏆 Highlights
