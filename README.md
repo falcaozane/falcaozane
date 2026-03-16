@@ -11,16 +11,34 @@
 # 💻 Tech Stack
 
 ### Languages & Databases
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css,sql,mongodb,postgres&perline=11)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,html,css,mongodb,postgres,mysql&perline=11)
 
 ### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,flask,fastapi,streamlit,selenium&perline=10)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,flask,fastapi,selenium&perline=9)
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 ### Cloud, DevOps & Tools
-![Cloud & Tools](https://skillicons.dev/icons?i=azure,aws,gcp,vercel,netlify,render,docker,linux,git,github,firebase,postman,vscode,jira&perline=7)
+![Cloud & Tools](https://skillicons.dev/icons?i=azure,aws,gcp,vercel,netlify,docker,linux,git,github,firebase,postman,vscode&perline=6)
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 ### Blockchain, AI & Data Science
-![Blockchain & AI](https://skillicons.dev/icons?i=solidity,hardhat,ethers,ipfs,tensorflow,pytorch,sklearn,pandas,numpy,opencv,spacy,openai&perline=12)
+![AI](https://skillicons.dev/icons?i=solidity,tensorflow,pytorch,sklearn,opencv&perline=7)
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+
 ---
 
 ### 🏆 Highlights
