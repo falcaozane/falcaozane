@@ -73,12 +73,12 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 ---
 
 # 🎖️ Certifications:
-🔹 AZ-900
-🔹 AI-900
-🔹 DP-900
-🔹 Google Cloud Computing Foundations Certificate
-🔹 Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-🔹 AWS Academy Graduate - Cloud Foundations - Training Badge
+🔹 AZ-900 <br/>
+🔹 AI-900 <br/>
+🔹 DP-900 <br/>
+🔹 Google Cloud Computing Foundations Certificate <br/>
+🔹 Oracle Cloud Infrastructure 2025 Certified Foundations Associate <br/>
+🔹 AWS Academy Graduate - Cloud Foundations - Training Badge <br/>
 
 ---
 
