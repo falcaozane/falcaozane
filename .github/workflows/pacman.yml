@@ -22,6 +22,10 @@ jobs:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
+      # ADDED HERE: This initializes the directory structure so the dist folder can be created
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
