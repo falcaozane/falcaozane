@@ -44,6 +44,7 @@
 ### 🏆 Highlights
 - 🥇 **Smart India Hackathon 2023 Winner** – AI-Based Legal Documentation Assistant (Ministry of Law & Justice)
 - 🥇 **TIAA Retire-AI-Thon Winner** – Financial AI Portfolio Planner  
+- 🥇 **Capgemini ER&D AI Hackathon** – Smart Network Analyser for NOC operations (Capgemini)
 - 🥈 **Technovate 2.0 Winner**, **Unfold 2K24 Finalist**, **Strategem Runner-Up**
 - 💡 10+ AI/ML & Blockchain Projects deployed live  
 - 👨‍💻 Web Dev Lead @ **GDSC CRCE** | Organized Bit-N-Build Hackathon with 300+ participants
