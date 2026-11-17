@@ -2,7 +2,7 @@
 </hr>
 <h2 align="center">SIH-23 Winner | TIAA Retire AI thon Winner | Unfold 2k24 Finalist</h2>
 <h3 align="center">Why wait when you can Innovate</h3>
-<h4 align="center"> Full Stack Developer</h4>
+<h4 align="center"> Applied A.I Engineer @Capgemini</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=falcaozane&label=Zane's%20Profile%20Views%20&color=dc143c&style=plastic" alt="falcaozane" /> </p>
 <br/>
@@ -78,6 +78,7 @@ AI-driven food waste tracker using **Flask**, **ML**, and **IoT integrations**.
 🔹 AI-900 <br/>
 🔹 DP-900 <br/>
 🔹 Google Cloud - Associate Cloud Engineer Certification <br/>
+🔹 Claude Certified Associate - Foundations <br/>
 🔹 Google Cloud Computing Foundations Certificate <br/>
 🔹 Oracle Cloud Infrastructure 2025 Certified Foundations Associate <br/>
 🔹 AWS Academy Graduate - Cloud Foundations - Training Badge <br/>
